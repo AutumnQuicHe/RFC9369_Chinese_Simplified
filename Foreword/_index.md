@@ -1,5 +1,5 @@
 ---
-title: "RFC9369 QUIC第2版"
+title: "RFC9369 QUIC版本2"
 anchor: "RFC9369_QUIC"
 weight: 1
 ---

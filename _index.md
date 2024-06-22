@@ -1,5 +1,5 @@
 ---
-title: "RFC9369中文：QUIC第2版"
+title: "RFC9369中文：QUIC版本2"
 anchor: "RFC9369"
 weight: 400
 rank: "sub_page"
